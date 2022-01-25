@@ -13,6 +13,6 @@ iptv直播源，取自某电视直播源
 2. 带节目单的未经失效检测的完整节目列表https://gitee.com/bahtyar/iptv/raw/pub/full_list.m3u
 电子节目单还在探索阶段
 
-3. 直播软件
+3. **如果直播源失效，可以下载exe直播源软件自己获取最新地址**
 
    
